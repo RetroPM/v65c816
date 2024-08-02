@@ -45,5 +45,6 @@ NEG (0x42/0xED) NEGates contents of accumulator
 NOTE: all new instructions listed above must be preceded by a WDM (0x42) opcode
 
 https://opencores.org/projects/v65c816
+
 License: LGPL
 
